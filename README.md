@@ -2,7 +2,7 @@
 
 ## Project's goal
 
-In this environment, two agents control rackets to bounce a ball over a net, the goal of each agent is to keep the ball in play.Problem solved by MADDPG Algorithm.
+In this environment, two agents control rackets to bounce a ball over a net, the goal of each agent is to keep the ball in play.Problem solved by [MADDPG Algorithm](https://papers.nips.cc/paper/7217-multi-agent-actor-critic-for-mixed-cooperative-competitive-environments.pdf).
 
 Detailed explanation is available in [report file](https://github.com/aylingizem/tennis/blob/master/report.pdf)
 
