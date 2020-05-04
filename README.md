@@ -32,3 +32,4 @@ pip install -r requirements.txt
 In this scenario,
 
 * Environment solved in 2027 episodes and the average score is  0.501
+* [Proximal Policy Optimization Algorithms suggested](https://arxiv.org/abs/1707.06347) as a future work
